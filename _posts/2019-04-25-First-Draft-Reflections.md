@@ -4,7 +4,7 @@ redirect_from:
 title: "First Draft Reflections"
 excerpt: "Self Realization, Identity, meaning of being Human" 
 header:
-  overlay_image: "/assets/images/posts/first-draft-reflections/screening-2.png"
+  overlay_image: "/images/3953273590_704e3899d5_m.jpg"
   show_overlay_excerpt: false
 ---
 
